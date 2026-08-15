@@ -4,10 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+Mi nombre es Ariadna Quiroga, vivo en villa tesei, hurlingham. Estoy en el segundo año de la tecnicatura en programacion
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+Ya experimente con github antes
